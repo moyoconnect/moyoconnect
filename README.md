@@ -1,0 +1,18 @@
+What is MoyoConnect?
+MoyoConnect is an all-in-one platform designed to bring together essential community services in Malawi. 
+Whether you are looking to buy or sell products, find local jobs, hire service providers, or explore real estate opportunities,
+MoyoConnect makes it easy to connect with the right people — all in one place.
+
+
+
+Agent
+"Connecting property owners and agents with buyers and renters, simplifying the process of selling, renting, and finding homes and plots."
+
+Service Providers
+"Connect with trusted professionals across Malawi — builders, plumbers, electricians, decorators, DJs, and more. Find the right help for any project, fast and easy."
+
+Employer
+Post job opportunities, reaching job seekers in the community who are ready to work locally.
+
+Seller
+List products or items for sale, helping buyers easily browse and purchase what they need.
